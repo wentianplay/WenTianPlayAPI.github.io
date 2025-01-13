@@ -134,6 +134,30 @@
                 "describe": "哔哩哔哩"
             },
             {
+                "name": "爱奇艺",
+                "icon": "./assets/siteIcons/iqiyi.png",
+                "url": "https://www.iqiyi.com/",
+                "describe": "爱奇艺-在线视频网站-海量正版高清视频在线观看"
+            },
+            {
+                "name": "腾讯视频",
+                "icon": "./assets/siteIcons/v.png",
+                "url": "https://v.qq.com/",
+                "describe": "腾讯视频-中国领先的在线视频媒体平台,海量高清视频在线观看"
+            },
+            {
+                "name": "优酷",
+                "icon": "./assets/siteIcons/youku.png",
+                "url": "https://www.youku.com/",
+                "describe": "优酷 - 为好内容全力以赴 - 海量正版高清视频在线观看"
+            },
+            {
+                "name": "芒果TV",
+                "icon": "./assets/siteIcons/bilibili.png",
+                "url": "https://www.mgtv.com/",
+                "describe": "芒果TV-天生青春"
+            },
+            {
                 "name": "Google",
                 "icon": "./assets/siteIcons/google.png",
                 "url": "https://www.google.com/",

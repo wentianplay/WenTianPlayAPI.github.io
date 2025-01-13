@@ -23,8 +23,8 @@
             {
                 "name": "祖帝站",
                 "icon": "./assets/siteIcons/Wenfei_.png",
-                "url": "https://OP.WenTianPlay.com/",
-                "describe": "昵称:苏天彬,游戏名:Wenfei_,文天玩WenTian Play创始人,董事长,首席执行官(CEO) 。(属于关于祖帝大人的自我介绍)"
+                "url": "https://bilibili.WenTianPlay.com/",
+                "describe": "昵称:苏天彬,游戏名:Wenfei_,文天玩WenTian Play创始人,董事长,首席执行官(CEO) 。"
             },
             {
                 "name": "备案站",
@@ -87,6 +87,12 @@
                 "describe": "密码:6666 此下载站是祖帝大人分享出来的关于我的世界下载专区，无任何的商业用途，仅供下载。"
             },
             {
+                "name": "祖帝站",
+                "icon": "./assets/siteIcons/Wenfei_.png",
+                "url": "https://OP.WenTianPlay.com/",
+                "describe": "昵称:苏天彬,游戏名:Wenfei_,文天玩WenTian Play创始人,董事长,首席执行官(CEO) 。(属于关于祖帝大人的自我介绍)"
+            },
+            {
                 "name": "github",
                 "icon": "./assets/siteIcons/github.png",
                 "url": "https://github.com/wentianplay/",
@@ -103,6 +109,12 @@
                 "icon": "./assets/siteIcons/17renwuba.png",
                 "url": "https://www.17renwuba.com/uid/162301",
                 "describe": "17任务吧是一家免费提供众多网上打字赚钱任务包括快递录入,图片录入,打字录入,发票录入,DP录入,优加录入,信用卡录入,ems录入等真实可靠的正 …"
+            },
+            {
+                "name": "EVE官方网站",
+                "icon": "./assets/siteIcons/EVE.PNG",
+                "url": "https://www.eveonline.com/zh/signup?invc=1154021f-b8fd-43a6-83ef-257d2cfa5ca3",
+                "describe": "EVE官方网站，端游EVE Online国服（《星战前夜：晨曦》）和手游EVE无烬星河（《星战前夜：无烬星河》）是由冰岛CCP正版授权。 网易正式代理端游EVE Online国服，并与冰岛CCP …"
             }
         ]
     },
@@ -367,6 +379,12 @@
                 "icon": "./assets/siteIcons/doudou.png",
                 "url": "https://www.doudou.fun/",
                 "describe": "逗逗游戏伙伴是一款陪你一起玩游戏的AI桌宠软件，在这里有着各种个性的二次元人物，他们会在游戏过程中陪你聊天，还会讲笑话、唱歌等各种惊喜能力；他们懂游戏，更懂你，和为你定制..."
+            },
+            {
+                "name": "EVE官方网站",
+                "icon": "./assets/siteIcons/EVE.PNG",
+                "url": "https://www.eveonline.com",
+                "describe": "EVE官方网站，端游EVE Online国服（《星战前夜：晨曦》）和手游EVE无烬星河（《星战前夜：无烬星河》）是由冰岛CCP正版授权。 网易正式代理端游EVE Online国服，并与冰岛CCP …"
             }
         ]
     }

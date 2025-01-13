@@ -355,6 +355,12 @@
                 "icon": "./assets/siteIcons/leetcode.png",
                 "url": "https://leetcode.cn/",
                 "describe": "力扣 (LeetCode) 全球极客挚爱的技术成长平台"
+            },
+            {
+                "name": "逗逗游戏伙伴 | 懂游戏，更懂你",
+                "icon": "./assets/siteIcons/doudou.png",
+                "url": "https://www.doudou.fun/",
+                "describe": "逗逗游戏伙伴是一款陪你一起玩游戏的AI桌宠软件，在这里有着各种个性的二次元人物，他们会在游戏过程中陪你聊天，还会讲笑话、唱歌等各种惊喜能力；他们懂游戏，更懂你，和为你定制..."
             }
         ]
     }

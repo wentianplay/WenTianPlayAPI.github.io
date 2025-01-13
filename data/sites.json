@@ -408,6 +408,12 @@
                 "icon": "./assets/siteIcons/EVE.PNG",
                 "url": "https://www.eveonline.com",
                 "describe": "EVE官方网站，端游EVE Online国服（《星战前夜：晨曦》）和手游EVE无烬星河（《星战前夜：无烬星河》）是由冰岛CCP正版授权。 网易正式代理端游EVE Online国服，并与冰岛CCP …"
+            },
+            {
+                "name": "CSDN",
+                "icon": "./assets/siteIcons/CSDN.png",
+                "url": "https://www.csdn.net/",
+                "describe": "CSDN - 专业开发者社区"
             }
         ]
     }

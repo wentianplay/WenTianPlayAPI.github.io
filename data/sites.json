@@ -140,6 +140,12 @@
                 "describe": "CCTV节目官网是中央电视台电视节目官方呈现平台，提供央视24个频道的直播、点播、节目预告等服务，集纳央视所有栏目、电影、电视 …"
             },
             {
+                "name": "《新闻联播》",
+                "icon": "./assets/siteIcons/CCTV.png",
+                "url": "https://www.CCTV.com/",
+                "describe": "《新闻联播》,CCTV节目官网是中央电视台电视节目官方呈现平台，提供央视24个频道的直播、点播、节目预告等服务，集纳央视所有栏目、电影、电视 …"
+            },
+            {
                 "name": "Steam",
                 "icon": "./assets/siteIcons/steam.png",
                 "url": "https://store.steampowered.com/",

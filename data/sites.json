@@ -78,13 +78,12 @@
                 "icon": "./assets/siteIcons/Discord.png",
                 "url": "https://discord.gg/CwJqM27Nb7",
                 "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。它适用于 Windows、macOS、Linux、iOS 和 Android 设备。该应用程序是免费的，安全性高，既能在台式电脑上使用，也能在手机上使用。今天就从 Google Playstore 或 Apple App Store 等受信任的来源下载最好的通过视频、语..."
-            
             },
             {
-                "name": "我的世界站长下载专区",
-                "icon": "./assets/siteIcons/minecraft_logo.png",
-                "url": "https://iOS.WenTianPlay.com/",
-                "describe": "密码:6666 此下载站是祖帝大人分享出来的关于我的世界下载专区，无任何的商业用途，仅供下载。"
+                "name": "Github",
+                "icon": "./assets/siteIcons/github.png",
+                "url": "https://github.com/wentianplay/",
+                "describe": "开源项目:仅供学习禁止任何形式的商业用途!!!­­­­­-文天玩WenTian Play,祖帝大人github个人主页"
             },
             {
                 "name": "祖帝站",
@@ -93,10 +92,10 @@
                 "describe": "昵称:苏天彬,游戏名:Wenfei_,文天玩WenTian Play创始人,董事长,首席执行官(CEO) 。(属于关于祖帝大人的自我介绍)"
             },
             {
-                "name": "github",
-                "icon": "./assets/siteIcons/github.png",
-                "url": "https://github.com/wentianplay/",
-                "describe": "文天玩开源项目欢迎到此参观仅供学习禁止任何形式的商业用途!!!"
+                "name": "我的世界站长下载专区",
+                "icon": "./assets/siteIcons/minecraft_logo.png",
+                "url": "https://iOS.WenTianPlay.com/",
+                "describe": "密码:6666 此下载站是祖帝大人分享出来的关于我的世界下载专区，无任何的商业用途，仅供下载。"
             },
             {
                 "name": "绿茶VPN",
@@ -141,7 +140,7 @@
                 "describe": "全球最大的学习分享平台"
             },
             {
-                "name": "github",
+                "name": "Github",
                 "icon": "./assets/siteIcons/github.png",
                 "url": "https://www.github.com/",
                 "describe": "基于web的版本控制和协作平台"

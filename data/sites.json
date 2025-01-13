@@ -80,16 +80,16 @@
                 "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。它适用于 Windows、macOS、Linux、iOS 和 Android 设备。该应用程序是免费的，安全性高，既能在台式电脑上使用，也能在手机上使用。今天就从 Google Playstore 或 Apple App Store 等受信任的来源下载最好的通过视频、语..."
             },
             {
-                "name": "Github",
-                "icon": "./assets/siteIcons/github.png",
-                "url": "https://github.com/wentianplay/",
-                "describe": "开源项目:仅供学习禁止任何形式的商业用途!!!­­­­­-文天玩WenTian Play,祖帝大人github个人主页"
-            },
-            {
                 "name": "祖帝站",
                 "icon": "./assets/siteIcons/Wenfei_.png",
                 "url": "https://OP.WenTianPlay.com/",
                 "describe": "昵称:苏天彬,游戏名:Wenfei_,文天玩WenTian Play创始人,董事长,首席执行官(CEO) 。(属于关于祖帝大人的自我介绍)"
+            },
+            {
+                "name": "Github",
+                "icon": "./assets/siteIcons/github.png",
+                "url": "https://github.com/wentianplay/",
+                "describe": "开源项目:仅供学习禁止任何形式的商业用途!!!­­­­­-文天玩WenTian Play,祖帝大人github个人主页"
             },
             {
                 "name": "我的世界站长下载专区",

@@ -68,6 +68,19 @@
                 "describe": "祖帝大人哔哩哔哩个人主页"
             },
             {
+                "name": "KOOK-天彬",
+                "icon": "./assets/siteIcons/kook.png",
+                "url": "https://www.kookapp.cn/app/invite/6GcFWj",
+                "describe": "KOOK语音是一款免费无广告的语音沟通工具，支持PC端、安卓端、IOS端、网页端设备，无论你在什么地方，都可以畅快沟通。KOOK里有各种主题的服务器，你也可以根据自己的喜好，创..."
+            },
+            {
+                "name": "Discord-天彬",
+                "icon": "./assets/siteIcons/Discord.png",
+                "url": "https://discord.gg/CwJqM27Nb7",
+                "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。它适用于 Windows、macOS、Linux、iOS 和 Android 设备。该应用程序是免费的，安全性高，既能在台式电脑上使用，也能在手机上使用。今天就从 Google Playstore 或 Apple App Store 等受信任的来源下载最好的通过视频、语..."
+            
+            },
+            {
                 "name": "我的世界站长下载专区",
                 "icon": "./assets/siteIcons/minecraft_logo.png",
                 "url": "https://iOS.WenTianPlay.com/",
@@ -114,6 +127,18 @@
                 "icon": "./assets/siteIcons/github.png",
                 "url": "https://www.github.com/",
                 "describe": "基于web的版本控制和协作平台"
+            },
+            {
+                "name": "KOOK",
+                "icon": "./assets/siteIcons/kook.png",
+                "url": "https://www.kookapp.cn/",
+                "describe": "KOOK语音是一款免费无广告的语音沟通工具，支持PC端、安卓端、IOS端、网页端设备，无论你在什么地方，都可以畅快沟通。KOOK里有各种主题的服务器，你也可以根据自己的喜好..."
+            },
+            {
+                "name": "Discord",
+                "icon": "./assets/siteIcons/Discord.png",
+                "url": "https://discord.com",
+                "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。它适用于 Windows、macOS、Linux、iOS 和 Android 设备。该应用程序是免费的，安全性高，既能在台式电脑上使用，也能在手机上使用。今天就从 Google Playstore 或 Apple App Store 等受信任的来源下载最好的通过视频、语..."
             },
             {
                 "name": "绿茶VPN",

@@ -40,13 +40,13 @@
             {
                 "name": "店铺(官网)",
                 "icon": "./assets/icon.ico",
-                "url": "https://G.WenTianPlay.com/",
+                "url": "https://G.WenTianPlay.net/",
                 "describe": "文天玩WenTian Play店铺(官网)"
             },
             {
                 "name": "店铺(平台)",
                 "icon": "./assets/icon.ico",
-                "url": "https://G.WenTianPlay.net/",
+                "url": "https://G.WenTianPlay.com/",
                 "describe": "文天WenTi玩an Play店铺(平台)"
             },
             {

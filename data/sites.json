@@ -6,31 +6,31 @@
                 "name": "国际站",
                 "icon": "./assets/icon.ico",
                 "url": "https://API.WenTianPlay.com/",
-                "describe": "文天玩WenTianPlay国际站(母公司:文天玩网络科技有限公司)"
+                "describe": "文天玩WenTianPlay国际站(母公司:文天玩网络科技有限公司)这里是文飞儿时七岁的梦境世界，同时也是很真实的奇幻大世界，这里是以玄士阵营和科士阵营所领导的世界，也是神明与凡人共处的世界，表世界和里世界的战争与和平合作积极对外，还有以及不忘初心逐梦未来的不是因为有希望才坚持，而是只有坚持才有希望的勇往直前，探险之旅激励计划可以让探险者寻找到《天彬》世界那远古的历史…"
             },
             {
                 "name": "中国站",
                 "icon": "./assets/icon.ico",
                 "url": "https://www.WenTianPlay.cn/",
-                "describe": "文天玩WenTianPlay中国站(母公司:文天玩网络科技有限公司)"
+                "describe": "文天玩WenTianPlay中国站(母公司:文天玩网络科技有限公司)这里是文飞儿时七岁的梦境世界，同时也是很真实的奇幻大世界，这里是以玄士阵营和科士阵营所领导的世界，也是神明与凡人共处的世界，表世界和里世界的战争与和平合作积极对外，还有以及不忘初心逐梦未来的不是因为有希望才坚持，而是只有坚持才有希望的勇往直前，探险之旅激励计划可以让探险者寻找到《天彬》世界那远古的历史…"
             },
             {
                 "name": "数据站",
                 "icon": "./assets/icon.ico",
                 "url": "https://www.WenTianPlay.NET/",
-                "describe": "文天玩WenTianPlay数据站(母公司:文天玩网络科技有限公司)"
+                "describe": "文天玩WenTianPlay数据站(母公司:文天玩网络科技有限公司)这里是文飞儿时七岁的梦境世界，同时也是很真实的奇幻大世界，这里是以玄士阵营和科士阵营所领导的世界，也是神明与凡人共处的世界，表世界和里世界的战争与和平合作积极对外，还有以及不忘初心逐梦未来的不是因为有希望才坚持，而是只有坚持才有希望的勇往直前，探险之旅激励计划可以让探险者寻找到《天彬》世界那远古的历史…"
             },
             {
                 "name": "祖帝站",
                 "icon": "./assets/siteIcons/Wenfei_.png",
                 "url": "https://bilibili.WenTianPlay.com/",
-                "describe": "昵称:苏天彬,游戏名:Wenfei_,文天玩WenTian Play创始人,董事长,首席执行官(CEO) 。"
+                "describe": "昵称:苏天彬,游戏名:Wenfei_,文天玩WenTian Play创始人,董事长,首席执行官(CEO) 。这里是文飞儿时七岁的梦境世界，同时也是很真实的奇幻大世界，这里是以玄士阵营和科士阵营所领导的世界，也是神明与凡人共处的世界，表世界和里世界的战争与和平合作积极对外，还有以及不忘初心逐梦未来的不是因为有希望才坚持，而是只有坚持才有希望的勇往直前，探险之旅激励计划可以让探险者寻找到《天彬》世界那远古的历史…"
             },
             {
                 "name": "备案站",
                 "icon": "./assets/icon.ico",
                 "url": "https://www.WenTianPlay.com.cn/",
-                "describe": "文天玩WenTianPlay备案站(子公司:快柠檬网络科技有限公司)"
+                "describe": "文天玩WenTianPlay备案站(子公司:快柠檬网络科技有限公司)这里是文飞儿时七岁的梦境世界，同时也是很真实的奇幻大世界，这里是以玄士阵营和科士阵营所领导的世界，也是神明与凡人共处的世界，表世界和里世界的战争与和平合作积极对外，还有以及不忘初心逐梦未来的不是因为有希望才坚持，而是只有坚持才有希望的勇往直前，探险之旅激励计划可以让探险者寻找到《天彬》世界那远古的历史…"
             }
         ]
     },
@@ -414,6 +414,18 @@
                 "icon": "./assets/siteIcons/CSDN.png",
                 "url": "https://www.csdn.net/",
                 "describe": "CSDN - 专业开发者社区"
+            },
+            {
+                "name": "Nature",
+                "icon": "./assets/siteIcons/nature.png",
+                "url": "https://www.nature.com/",
+                "describe": "Nature publishes the finest peer-reviewed research that drives ground-breaking discovery, and is read by thought-leaders and decision-makers around the world. Skip to main …"
+            },
+            {
+                "name": "星野Ai",
+                "icon": "./assets/siteIcons/xingyeai.png",
+                "url": "https://www.xingyeai.com/",
+                "describe": "星野_沉浸式智能体社区_星野官网_星野app"
             }
         ]
     }

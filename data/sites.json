@@ -344,6 +344,18 @@
                 "describe": "在线HKDF派生密钥和校验工具，使用 HMAC-based Extract-and-Expand Key Derivation Function 算法，根据输入密钥和随机盐派生密 …"
             },
             {
+                "name": "在线批量修改图片尺寸",
+                "icon": "./assets/siteIcons/lddgo.png",
+                "url": "https://www.lddgo.net/image/modify-image-size",
+                "describe": "在线批量修改图片尺寸"
+            },
+            {
+                "name": "在线图片大小裁剪",
+                "icon": "./assets/siteIcons/lddgo.png",
+                "url": "https://www.lddgo.net/image/crop",
+                "describe": "在线图片大小裁剪"
+            },
+            {
                 "name": "程序员客栈",
                 "icon": "./assets/siteIcons/proginn.png",
                 "url": "https://www.proginn.com/",

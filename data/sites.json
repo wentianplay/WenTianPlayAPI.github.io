@@ -123,13 +123,13 @@
             },
             {
                 "name": "爱心捐款站(正式站)",
-                "icon": "./assets/siteIcons/icon.ico",
+                "icon": "./assets/icon.ico",
                 "url": "https://donation.WenTianPlay.net/",
                 "describe": "文天玩WenTianPlay-爱心捐款站(正式站)"
             },
             {
                 "name": "爱心捐款站(测试站)",
-                "icon": "./assets/siteIcons/icon.ico",
+                "icon": "./assets/icon.ico",
                 "url": "https://mc.WenTianPlay.com/",
                 "describe": "文天玩WenTianPlay-爱心捐款站(测试站)"
             }
@@ -456,6 +456,19 @@
                 "icon": "./assets/siteIcons/xingyeai.png",
                 "url": "https://www.xingyeai.com/",
                 "describe": "星野_沉浸式智能体社区_星野官网_星野app"
+            },
+            {
+                "name": "爱心捐款站(正式站)",
+                "icon": "./assets/icon.ico",
+                "url": "https://donation.WenTianPlay.net/",
+                "describe": "文天玩WenTianPlay-爱心捐款站(正式站)"
+            },
+            {
+                "name": "爱心捐款站(测试站)",
+                "icon": "./assets/icon.ico",
+                "url": "https://mc.WenTianPlay.com/",
+                "describe": "文天玩WenTianPlay-爱心捐款站(测试站)"
+            }
             }
         ]
     }

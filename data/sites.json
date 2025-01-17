@@ -465,8 +465,8 @@
             },
             {
                 "name": "联壁计划",
-                "icon": "./assets/siteIcons/minecraft_logo.png",
-                "url": "https://barrierslink.cn/favicon.ico",
+                "icon": "./assets/siteIcons/barrierslink.png",
+                "url": "https://barrierslink.cn/",
                 "describe": "联壁计划 • 一个煮熟海外Minecraft地图的公益团队"
             }
         ]

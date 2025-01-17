@@ -62,6 +62,12 @@
                 "describe": "密码:6666 此下载站是祖帝大人分享出来的关于我的世界下载专区,无任何的商业用途,仅供下载。"
             },
             {
+                "name": "我的世界恐怖地图",
+                "icon": "./assets/siteIcons/minecraft_logo.png",
+                "url": "https://wwo.lanzouu.com/b00b4ayxsh",
+                "describe": "密码:6666 此下载站是祖帝大人分享出来的关于我的世界恐怖地图,无任何的商业用途,仅供下载。"
+            },
+            {
                 "name": "KOOK-天彬",
                 "icon": "./assets/siteIcons/kook.png",
                 "url": "https://www.kookapp.cn/app/invite/6GcFWj",
@@ -456,6 +462,12 @@
                 "icon": "./assets/icon.ico",
                 "url": "https://mc.WenTianPlay.com/",
                 "describe": "文天玩WenTianPlay-爱心捐款站(测试站)"
+            },
+            {
+                "name": "联壁计划",
+                "icon": "./assets/siteIcons/minecraft_logo.png",
+                "url": "https://barrierslink.cn/favicon.ico",
+                "describe": "联壁计划 • 一个煮熟海外Minecraft地图的公益团队"
             }
         ]
     }

@@ -19,18 +19,6 @@
                 "icon": "./assets/icon.ico",
                 "url": "https://www.WenTianPlay.NET/",
                 "describe": "文天玩WenTianPlay数据站(母公司:文天玩网络科技有限公司)"
-            },
-            {
-                "name": "祖帝站",
-                "icon": "./assets/siteIcons/Wenfei_.png",
-                "url": "https://bilibili.WenTianPlay.com/",
-                "describe": "昵称:苏天彬,游戏名:Wenfei_,文天玩WenTian Play创始人,董事长,首席执行官(CEO) 。"
-            },
-            {
-                "name": "备案站",
-                "icon": "./assets/icon.ico",
-                "url": "https://www.WenTianPlay.com.cn/",
-                "describe": "文天玩WenTianPlay备案站(子公司:快柠檬网络科技有限公司)"
             }
         ]
     },

@@ -6,19 +6,19 @@
                 "name": "国际站",
                 "icon": "./assets/icon.ico",
                 "url": "https://API.WenTianPlay.com/",
-                "describe": "文天玩WenTianPlay国际站(母公司:文天玩网络科技有限公司)"
+                "describe": "文天玩WenTianPlay国际站-文天玩网络科技有限公司（已经停止更新）"
             },
             {
                 "name": "中国站",
                 "icon": "./assets/icon.ico",
                 "url": "https://www.WenTianPlay.cn/",
-                "describe": "文天玩WenTianPlay中国站(母公司:文天玩网络科技有限公司)"
+                "describe": "文天玩WenTianPlay中国站-文天玩网络科技有限公司（未停止更新哦)"
             },
             {
                 "name": "数据站",
                 "icon": "./assets/icon.ico",
                 "url": "https://www.WenTianPlay.NET/",
-                "describe": "文天玩WenTianPlay数据站(母公司:文天玩网络科技有限公司)"
+                "describe": "文天玩WenTianPlay数据站-文天玩网络科技有限公司（半停止半更新）"
             }
         ]
     },
@@ -29,13 +29,13 @@
                 "name": "店铺(官网)",
                 "icon": "./assets/icon.ico",
                 "url": "https://G.WenTianPlay.net/",
-                "describe": "文天玩WenTian Play店铺(官网)"
+                "describe": "文天玩WenTian Play店铺(官网直营)"
             },
             {
                 "name": "店铺(平台)",
                 "icon": "./assets/icon.ico",
                 "url": "https://G.WenTianPlay.com/",
-                "describe": "文天WenTi玩an Play店铺(平台)"
+                "describe": "文天玩WenTian Play店铺(平台代营)"
             },
             {
                 "name": "祖帝博客",

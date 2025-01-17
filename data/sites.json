@@ -38,19 +38,13 @@
                 "describe": "文天玩WenTian Play店铺(平台代营)"
             },
             {
-                "name": "祖帝博客",
-                "icon": "./assets/icon.ico",
-                "url": "https://m.WenTianPlay.com/",
-                "describe": "本站作者常年拖更的博客"
-            },
-            {
                 "name": "Youtube",
                 "icon": "./assets/siteIcons/youtube.png",
                 "url": "https://youtube.WenTianPlay.com/",
                 "describe": "祖帝大人YouTube个人主页"
             },
             {
-                "name": "bilibili",
+                "name": "哔哩哔哩",
                 "icon": "./assets/siteIcons/bilibili.png",
                 "url": "https://bilibili.WenTianPlay.com/",
                 "describe": "祖帝大人哔哩哔哩个人主页"
@@ -78,6 +72,12 @@
                 "icon": "./assets/siteIcons/Discord.png",
                 "url": "https://discord.gg/CwJqM27Nb7",
                 "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。它适用于 Windows、macOS、Linux、iOS 和 Android 设备。该应用程序是免费的，安全性高，既能在台式电脑上使用，也能在手机上使用。今天就从 Google Playstore 或 Apple App Store 等受信任的来源下载最好的通过视频、语..."
+            },
+            {
+                "name": "博客站",
+                "icon": "./assets/icon.ico",
+                "url": "https://m.WenTianPlay.com/",
+                "describe": "本站作者常年拖更的博客"
             },
             {
                 "name": "祖帝站",

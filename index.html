@@ -92,5 +92,55 @@
         </div> <!-- end of container -->
     </div> <!-- end of copyright --> 
 <!-- end of copyright -->
+<style type="text/css">
+	
+#bottom-outer {
+    color: #888;
+    text-align: center;
+    padding: 10px;
+    padding-top: 40px;
+    background-color: #fff;
+    font-size: 14px;
+    opacity:0.85;
+}
+
+</style>
+
+
+</head>
+<body>
+<div id="bottom-outer">
+                <div id="bottom-inner">
+                   
+                
+                    <br>导航站访问量:<span id="result1"></span>
+
+                    -<span id="year"></span>
+
+
+                </div>
+            </div>
+        </div>
+
+</body>
+
+
+
+<script type="text/javascript">
+	//流量统计
+                    if (localStorage.pagecount) {
+                        localStorage.pagecount = Number(localStorage.pagecount) + 1;
+                    } else {
+                        localStorage.pagecount = 1;
+                    }
+                    document.getElementById("result1").innerHTML = localStorage.pagecount;
+
+
+            //年份获取
+
+            var myDate = new Date();
+            var year = myDate.getFullYear();
+            document.getElementById('year').innerHTML = year;
+</script>
 这里是文飞儿时七岁的梦境世界，同时也是很真实的奇幻大世界，这里是以玄士阵营和科士阵营所领导的世界，也是神明与凡人共处的世界，表世界和里世界的战争与和平合作积极对外，还有以及不忘初心逐梦未来的不是因为有希望才坚持，而是只有坚持才有希望的勇往直前，探险之旅激励计划可以让探险者寻找到《天彬》世界那远古的历史…
 </html>

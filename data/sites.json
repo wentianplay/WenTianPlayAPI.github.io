@@ -498,6 +498,12 @@
                 "icon": "./assets/siteIcons/bowlroll.ico",
                 "url": "https://bowlroll.net/",
                 "describe": "BowlRoll"
+            },
+            {
+                "name": "下载最新的独立游戏 - itch.io",            
+                "icon": "./assets/siteIcons/itch.ico",
+                "url": "https://itch.io/",
+                "describe": "下载最新的独立游戏 - itch.io"
             }
         ]
     }

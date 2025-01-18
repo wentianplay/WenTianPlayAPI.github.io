@@ -504,6 +504,42 @@
                 "icon": "./assets/siteIcons/itch.ico",
                 "url": "https://itch.io/",
                 "describe": "下载最新的独立游戏 - itch.io"
+            },
+            {
+                "name": "GeekPrank",
+                "icon": "./assets/siteIcons/bitburner.png",
+                "url": "https://geekprank.shi4home.com/hacker/index.htm",
+                "describe": "GeekPrank Hacker Typer - 在线黑客模拟器（可能图标是错的）"
+            },
+            {
+                "name": "AI 导航站",
+                "icon": "./assets/siteIcons/naviai.png",
+                "url": "https://www.naviai.cn/",
+                "describe": "AI 导航站 | 收录了国内外2000+优质AI工具，人工智能工具和模型，整理了AI对话聊天、AI绘画设计、AI视频制作、AI写作办公、AI编程开发等各类工具，还包括最新的AI资讯、AI绘画教程、AI工具技巧等实用内容。在这里，AI领域的专家和初学者都能轻松找到心仪的AI工具和学习资源。"
+            },
+            {
+                "name": "Cкачать",
+                "icon": "./assets/siteIcons/byrut.png",
+                "url": "https://byrut.org.ru/",
+                "describe": "Cкачать игры на ПК [последние версии 2022] через торрент бесплатно"
+            },
+            {
+                "name": "shi4home",
+                "icon": "./assets/siteIcons/shi4home.png",
+                "url": "https://shi4home.com/",
+                "describe": "shi4home"
+            },
+            {
+                "name": "liteapks",
+                "icon": "./assets/siteIcons/liteapks.png",
+                "url": "https://liteapks.com/",
+                "describe": "LITEAPKS - #1 MOD APK for Android"
+            },
+            {
+                "name": "pixiv",
+                "icon": "./assets/siteIcons/pixiv.png",
+                "url": "https://www.pixiv.net/",
+                "describe": "pixiv"
             }
         ]
     }

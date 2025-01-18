@@ -480,6 +480,12 @@
                 "icon": "./assets/siteIcons/Barrierslink_logo.svg",
                 "url": "https://barrierslink.cn/",
                 "describe": "联壁计划 • 一个煮熟海外Minecraft地图的公益团队"
+            },
+            {
+                "name": "DeviantArt",
+                "icon": "./assets/siteIcons/DeviantArt.png",
+                "url": "https://www.deviantart.com",
+                "describe": "DeviantArt - The Largest Online Art Gallery and Community"
             }
         ]
     }

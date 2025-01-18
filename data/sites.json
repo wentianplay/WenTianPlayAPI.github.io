@@ -62,6 +62,12 @@
                 "describe": "苏天彬(苏文飞)哔哩哔哩牛奶🥛充电站"
             },
             {
+                "name": "邮箱投稿(QQ)",
+                "icon": "./assets/siteIcons/mail_QQ.png",
+                "url": "mailto:wentianplay@qq.com",
+                "describe": "苏天彬(苏文飞)-QQ邮箱"
+            },
+            {
                 "name": "我的世界下载专区",
                 "icon": "./assets/siteIcons/minecraft_logo.png",
                 "url": "https://iOS.WenTianPlay.com/",

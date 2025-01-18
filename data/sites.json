@@ -486,6 +486,18 @@
                 "icon": "./assets/siteIcons/DeviantArt.png",
                 "url": "https://www.deviantart.com",
                 "describe": "DeviantArt - The Largest Online Art Gallery and Community"
+            },
+            {
+                "name": "BOOTH",
+                "icon": "./assets/siteIcons/BOOTH.ico",
+                "url": "https://booth.pm/",
+                "describe": "BOOTH - The International Indie Art Marketplace"
+            },
+            {
+                "name": "BowlRoll",            
+                "icon": "./assets/siteIcons/bowlroll.ico",
+                "url": "https://bowlroll.net/",
+                "describe": "BowlRoll"
             }
         ]
     }

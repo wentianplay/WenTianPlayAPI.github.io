@@ -80,6 +80,12 @@
                 "describe": "此下载站是祖帝大人分享出来的关于我的世界恐怖地图,无任何的商业用途,仅供下载。"
             },
             {
+                "name": "我的世界下载站🐍",
+                "icon": "./assets/siteIcons/minecraft_logo.png",
+                "url": "https://mcip.wentianplay.com",
+                "describe": "此下载站是祖帝大人分享出来的关于我的世界恐怖地图,无任何的商业用途,仅供下载。"
+            },
+            {
                 "name": "KOOK-天彬",
                 "icon": "./assets/siteIcons/kook.png",
                 "url": "https://www.kookapp.cn/app/invite/6GcFWj",
@@ -160,7 +166,7 @@
             {
                 "name": "我的世界下载站🐍",
                 "icon": "./assets/siteIcons/minecraft_logo.png",
-                "url": "https://mc.wentianplay.net",
+                "url": "https://mcip.wentianplay.com",
                 "describe": "此下载站是祖帝大人分享出来的关于我的世界恐怖地图,无任何的商业用途,仅供下载。"
             },
             {

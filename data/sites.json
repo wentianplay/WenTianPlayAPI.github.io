@@ -76,7 +76,7 @@
             {
                 "name": "我的世界内容下载站🐍",
                 "icon": "./assets/siteIcons/minecraft_logo.png",
-                "url": "mc.wentianplay.net",
+                "url": "https://mc.wentianplay.net",
                 "describe": "此下载站是祖帝大人分享出来的关于我的世界恐怖地图,无任何的商业用途,仅供下载。"
             },
             {
@@ -156,6 +156,12 @@
                 "icon": "./assets/siteIcons/mail_QQ.png",
                 "url": "mailto:wentianplay@qq.com",
                 "describe": "苏天彬(苏文飞)-QQ邮箱"
+            },
+            {
+                "name": "我的世界内容下载站🐍",
+                "icon": "./assets/siteIcons/minecraft_logo.png",
+                "url": "https://mc.wentianplay.net",
+                "describe": "此下载站是祖帝大人分享出来的关于我的世界恐怖地图,无任何的商业用途,仅供下载。"
             },
             {
                 "name": "你的影月月-原神攻略大全/攻略目录/随版本持续更新",

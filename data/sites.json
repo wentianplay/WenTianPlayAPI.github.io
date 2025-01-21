@@ -163,7 +163,6 @@
         "icon": "",
         "data": [
             {
-            {
                 "name": "邮箱联系(QQ)",
                 "icon": "./assets/siteIcons/mail_QQ.png",
                 "url": "mailto:wentianplay@qq.com",

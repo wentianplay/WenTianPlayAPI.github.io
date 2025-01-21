@@ -26,13 +26,13 @@
         "icon": "",
         "data": [
             {
-                "name": "店铺(官网)",
+                "name": "店铺官网(官网)",
                 "icon": "./assets/icon.ico",
                 "url": "https://G.WenTianPlay.net/",
                 "describe": "文天玩WenTian Play店铺(官网直营)"
             },
             {
-                "name": "店铺(平台)",
+                "name": "店铺官网(平台)",
                 "icon": "./assets/icon.ico",
                 "url": "https://G.WenTianPlay.com/",
                 "describe": "文天玩WenTian Play店铺(平台代营)"
@@ -48,12 +48,6 @@
                 "icon": "./assets/siteIcons/bilibili.png",
                 "url": "https://bilibili.WenTianPlay.com/",
                 "describe": "祖帝大人哔哩哔哩个人主页"
-            },
-            {
-                "name": "《天彬》小说在线阅读-首发起点中文网",
-                "icon": "./assets/siteIcons/favicon.png",
-                "url": "https://www.qidian.com/book/1041003789/",
-                "describe": "这里是文飞儿时七岁的梦境世界，同时也是很真实的奇幻大世界，这里是以玄士阵营和科士阵营所领导的世界，也是神明与凡人共处的世界，表世界和里世界的战争与和平合作积极对外，还有以及不忘初心逐梦未来的不是因为有希望才坚持，而是只有坚持才有希望的勇往直前，探险之旅激励计划可以让探险者寻找到《天彬》世界那远古的历史…"
             },
             {
                 "name": "充电站🥛",
@@ -104,6 +98,12 @@
                 "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。它适用于 Windows、macOS、Linux、iOS 和 Android 设备。该应用程序是免费的，安全性高，既能在台式电脑上使用，也能在手机上使用。今天就从 Google Playstore 或 Apple App Store 等受信任的来源下载最好的通过视频、语..."
             },
             {
+                "name": "《天彬》小说在线阅读-首发起点中文网",
+                "icon": "./assets/siteIcons/favicon.png",
+                "url": "https://www.qidian.com/book/1041003789/",
+                "describe": "这里是文飞儿时七岁的梦境世界，同时也是很真实的奇幻大世界，这里是以玄士阵营和科士阵营所领导的世界，也是神明与凡人共处的世界，表世界和里世界的战争与和平合作积极对外，还有以及不忘初心逐梦未来的不是因为有希望才坚持，而是只有坚持才有希望的勇往直前，探险之旅激励计划可以让探险者寻找到《天彬》世界那远古的历史…"
+            },
+            {
                 "name": "博客站",
                 "icon": "./assets/siteIcons/Wenfei_.png",
                 "url": "https://m.WenTianPlay.com/",
@@ -122,6 +122,18 @@
                 "describe": "开源项目:仅供学习禁止任何形式的商业用途!!!­­­­­-文天玩WenTian Play,祖帝大人github个人主页"
             },
             {
+                "name": "爱心捐款站(正式站)",
+                "icon": "./assets/icon.ico",
+                "url": "https://donation.WenTianPlay.net/",
+                "describe": "文天玩WenTianPlay-爱心捐款站(正式站)"
+            },
+            {
+                "name": "爱心捐款站(测试站)",
+                "icon": "./assets/icon.ico",
+                "url": "https://mc.WenTianPlay.com/",
+                "describe": "文天玩WenTianPlay-爱心捐款站(测试站)"
+            },
+            {
                 "name": "绿茶VPN",
                 "icon": "./assets/siteIcons/lvcha.png",
                 "url": "https://k1.lvcha.cfd/?id=165034437",
@@ -138,18 +150,7 @@
                 "icon": "./assets/siteIcons/EVE.PNG",
                 "url": "https://www.eveonline.com/zh/signup?invc=1154021f-b8fd-43a6-83ef-257d2cfa5ca3",
                 "describe": "EVE官方网站，端游EVE Online国服（《星战前夜：晨曦》）和手游EVE无烬星河（《星战前夜：无烬星河》）是由冰岛CCP正版授权。 网易正式代理端游EVE Online国服，并与冰岛CCP …"
-            },
-            {
-                "name": "爱心捐款站(正式站)",
-                "icon": "./assets/icon.ico",
-                "url": "https://donation.WenTianPlay.net/",
-                "describe": "文天玩WenTianPlay-爱心捐款站(正式站)"
-            },
-            {
-                "name": "爱心捐款站(测试站)",
-                "icon": "./assets/icon.ico",
-                "url": "https://mc.WenTianPlay.com/",
-                "describe": "文天玩WenTianPlay-爱心捐款站(测试站)"
+
             },
             {
                 "name": "你的影月月-原神攻略大全/攻略目录/随版本持续更新",

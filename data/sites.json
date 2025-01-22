@@ -26,16 +26,16 @@
         "icon": "",
         "data": [
             {
-                "name": "店铺官网(官网)",
+                "name": "店铺官网(官方直营)",
                 "icon": "./assets/icon.ico",
                 "url": "https://G.WenTianPlay.net/",
-                "describe": "文天玩WenTian Play店铺(官网直营)"
+                "describe": "文天玩WenTian Play店铺―—(官网直营)"
             },
             {
-                "name": "店铺官网(平台)",
+                "name": "店铺官网(平台代营)",
                 "icon": "./assets/icon.ico",
                 "url": "https://G.WenTianPlay.com/",
-                "describe": "文天玩WenTian Play店铺(平台代营)"
+                "describe": "文天玩WenTian Play店铺―—(平台代营)"
             },
             {
                 "name": "Youtube",
@@ -144,6 +144,12 @@
                 "icon": "./assets/siteIcons/17renwuba.png",
                 "url": "https://www.17renwuba.com/uid/162301",
                 "describe": "17任务吧是一家免费提供众多网上打字赚钱任务包括快递录入,图片录入,打字录入,发票录入,DP录入,优加录入,信用卡录入,ems录入等真实可靠的正 …"
+            },
+            {
+                "name": "爱云i寄售 ",
+                "icon": "./assets/siteIcons/ay-yimfk.ico",
+                "url": "https://ay.yimfk.com/register?user_id=2566",
+                "describe": "爱云i寄售 - 程序测试请勿使用"
             },
             {
                 "name": "EVE官方网站",
@@ -498,6 +504,12 @@
                 "icon": "./assets/siteIcons/nature.png",
                 "url": "https://www.nature.com/",
                 "describe": "Nature publishes the finest peer-reviewed research that drives ground-breaking discovery, and is read by thought-leaders and decision-makers around the world. Skip to main …"
+            },
+            {
+                "name": "爱云i寄售 ",
+                "icon": "./assets/siteIcons/ay-yimfk.ico",
+                "url": "https://ay.yimfk.com/register?user_id=2566",
+                "describe": "爱云i寄售 - 程序测试请勿使用"
             },
             {
                 "name": "星野Ai",

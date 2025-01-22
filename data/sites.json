@@ -68,6 +68,12 @@
                 "describe": "苏天彬(苏文飞)-foxmail邮箱"
             },
             {
+                "name": "邮箱联系(163网易邮箱)",
+                "icon": "./assets/siteIcons/163.png",
+                "url": "mailto:wentianplay@163.com",
+                "describe": "苏天彬(苏文飞)-163网易邮箱"
+            },
+            {
                 "name": "邮箱联系(Outlook)",
                 "icon": "./assets/siteIcons/outlook.ico",
                 "url": "mailto:wentianplay@outlook.com",
@@ -192,6 +198,12 @@
                 "icon": "./assets/siteIcons/foxmail.ico",
                 "url": "mailto:wentianplay@foxmail.com",
                 "describe": "苏天彬(苏文飞)-foxmail邮箱"
+            },
+            {
+                "name": "邮箱联系(163网易邮箱)",
+                "icon": "./assets/siteIcons/163.png",
+                "url": "mailto:wentianplay@163.com",
+                "describe": "苏天彬(苏文飞)-163网易邮箱"
             },
             {
                 "name": "邮箱联系(Outlook)",

@@ -68,6 +68,12 @@
                 "describe": "苏天彬(苏文飞)-Gmail邮箱"
             },
             {
+                "name": "邮箱联系(Outlook)",
+                "icon": "./assets/siteIcons/outlook.ico",
+                "url": "mailto:wentianplay@Gmail.com",
+                "describe": "苏天彬(苏文飞)-Outlook邮箱"
+            },
+            {
                 "name": "我的世界下载专区",
                 "icon": "./assets/siteIcons/minecraft_logo.png",
                 "url": "https://iOS.WenTianPlay.com/",
@@ -180,6 +186,12 @@
                 "icon": "./assets/siteIcons/mall-Gmail.png",
                 "url": "mailto:wentianplay@Gmail.com",
                 "describe": "苏天彬(苏文飞)-Gmail邮箱"
+            },
+            {
+                "name": "邮箱联系(Outlook)",
+                "icon": "./assets/siteIcons/outlook.ico",
+                "url": "mailto:wentianplay@Gmail.com",
+                "describe": "苏天彬(苏文飞)-Outlook邮箱"
             },
             {
                 "name": "我的世界下载站🐍",

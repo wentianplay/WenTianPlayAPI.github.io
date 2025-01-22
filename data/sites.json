@@ -50,10 +50,10 @@
                 "describe": "祖帝大人哔哩哔哩个人主页"
             },
             {
-                "name": "充电站🥛",
-                "icon": "./assets/siteIcons/bilibili-Wenfei_.png",
-                "url": "https://www.bilibili.com/h5/upower/index?mid=1607684364",
-                "describe": "苏天彬(苏文飞)哔哩哔哩牛奶🥛充电站"
+                "name": "《天彬》小说在线阅读-首发起点中文网",
+                "icon": "./assets/siteIcons/favicon.png",
+                "url": "https://www.qidian.com/book/1041003789/",
+                "describe": "这里是文飞儿时七岁的梦境世界，同时也是很真实的奇幻大世界，这里是以玄士阵营和科士阵营所领导的世界，也是神明与凡人共处的世界，表世界和里世界的战争与和平合作积极对外，还有以及不忘初心逐梦未来的不是因为有希望才坚持，而是只有坚持才有希望的勇往直前，探险之旅激励计划可以让探险者寻找到《天彬》世界那远古的历史…"
             },
             {
                 "name": "邮箱联系(QQ)",
@@ -116,19 +116,19 @@
                 "describe": "文天玩WenTianPlay-爱心捐款站(平台代营)"
             },
             {
-                "name": "《天彬》小说在线阅读-首发起点中文网",
-                "icon": "./assets/siteIcons/favicon.png",
-                "url": "https://www.qidian.com/book/1041003789/",
-                "describe": "这里是文飞儿时七岁的梦境世界，同时也是很真实的奇幻大世界，这里是以玄士阵营和科士阵营所领导的世界，也是神明与凡人共处的世界，表世界和里世界的战争与和平合作积极对外，还有以及不忘初心逐梦未来的不是因为有希望才坚持，而是只有坚持才有希望的勇往直前，探险之旅激励计划可以让探险者寻找到《天彬》世界那远古的历史…"
+                "name": "充电站🥛",
+                "icon": "./assets/siteIcons/bilibili-Wenfei_.png",
+                "url": "https://www.bilibili.com/h5/upower/index?mid=1607684364",
+                "describe": "苏天彬(苏文飞)哔哩哔哩牛奶🥛充电站"
             },
             {
-                "name": "博客站",
+                "name": "博客站🌱",
                 "icon": "./assets/siteIcons/Wenfei_.png",
                 "url": "https://m.WenTianPlay.com/",
                 "describe": "本站作者常年拖更的博客"
             },
             {
-                "name": "祖帝站",
+                "name": "祖帝站🐍",
                 "icon": "./assets/siteIcons/Wenfei_.png",
                 "url": "https://OP.WenTianPlay.com/",
                 "describe": "昵称:苏天彬,游戏名:Wenfei_,文天玩WenTian Play创始人,董事长,首席执行官(CEO) 。(属于关于祖帝大人的自我介绍)"
@@ -140,13 +140,13 @@
                 "describe": "密码:6666 此下载专区是祖帝大人分享出来的关于我的世界下载专区,无任何的商业用途,仅供下载。"
             },
             {
-                "name": "我的世界内容下载站🐍",
+                "name": "我的世界下载站🐍",
                 "icon": "./assets/siteIcons/minecraft_logo.png",
                 "url": "https://mcip.wentianplay.com",
                 "describe": "此下载站是祖帝大人分享出来的关于我的世界恐怖地图,无任何的商业用途,仅供下载。"
             },
             {
-                "name": "我的世界下载站🐍",
+                "name": "我的世界内容下载站🐍",
                 "icon": "./assets/siteIcons/minecraft_logo.png",
                 "url": "https://mcip.wentianplay.com",
                 "describe": "此下载站是祖帝大人分享出来的关于我的世界恐怖地图,无任何的商业用途,仅供下载。"

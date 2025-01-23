@@ -542,6 +542,12 @@
                 "describe": "联壁计划 • 一个煮熟海外Minecraft地图的公益团队"
             },
             {
+                "name": "捏咔",
+                "icon": "./assets/siteIcons/neka.ico",
+                "url": "https://www.neka.cc",
+                "describe": "捏咔-捏人创作分享平台"
+            },
+            {
                 "name": "DeviantArt",
                 "icon": "./assets/siteIcons/DeviantArt.png",
                 "url": "https://www.deviantart.com",

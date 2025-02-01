@@ -241,6 +241,12 @@
                 "describe": "基于web的版本控制和协作平台"
             },
             {
+                "name": "蚂蚁课堂",
+                "icon": "./assets/siteIcons/mayikt.png",
+                "url": "http://www.mayikt.com/",
+                "describe": "蚂蚁课堂-每特教育-专注于互联网年轻人的IT在线教育-余胜军"
+            },
+            {
                 "name": "KOOK",
                 "icon": "./assets/siteIcons/kook.png",
                 "url": "https://www.kookapp.cn/",
@@ -371,12 +377,6 @@
                 "icon": "./assets/siteIcons/aliyun.png",
                 "url": "https://www.aliyun.com/",
                 "describe": "阿里云-计算，为了无法计算的价值"
-            },
-            {
-                "name": "蚂蚁课堂",
-                "icon": "./assets/siteIcons/mayikt.png",
-                "url": "http://www.mayikt.com/",
-                "describe": "蚂蚁课堂-每特教育-专注于互联网年轻人的IT在线教育-余胜军"
             },
             {
                 "name": "Blender",

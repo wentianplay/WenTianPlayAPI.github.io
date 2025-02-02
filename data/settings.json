@@ -51,6 +51,14 @@
                 "icon": "./assets/searchEngineIcons/zhihu.svg",
                 "api": "https://www.zhihu.com/search?type=content&q=%keyword%",
                 "advice_func":"zhihu_advice"
+            },
+            "zhihu": {
+                "name": "文天玩",
+                "mainColor": "#8956FF",
+                "textColor": "white",
+                "icon": "./assets/searchEngineIcons/WenTianPlay.svg",
+                "api": "./文天玩WenTian Play.apk",
+                "advice_func":"WenTianPlay_advice"
             }
         }
     }

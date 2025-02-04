@@ -44,6 +44,18 @@
                 "describe": "祖帝大人YouTube个人主页"
             },
             {
+                "name": "爱心捐款站(官方直营)",
+                "icon": "./assets/siteIcons/bilibili-Wenfei_.png",
+                "url": "https://pay.WenTianPlay.com/",
+                "describe": "文天玩WenTianPlay-爱心捐款站(官方直营)"
+            },
+            {
+                "name": "爱心捐款站(平台代营)",
+                "icon": "./assets/siteIcons/bilibili-Wenfei_.png",
+                "url": "https://pay.WenTianPlay.net/",
+                "describe": "文天玩WenTianPlay-爱心捐款站(平台代营)"
+            },
+            {
                 "name": "哔哩哔哩",
                 "icon": "./assets/siteIcons/bilibili.png",
                 "url": "https://bilibili.WenTianPlay.com/",
@@ -102,18 +114,6 @@
                 "icon": "./assets/siteIcons/github.png",
                 "url": "https://github.com/wentianplay/",
                 "describe": "开源项目:仅供学习禁止任何形式的商业用途!!!­­­­­-文天玩WenTian Play,祖帝大人github个人主页"
-            },
-            {
-                "name": "爱心捐款站(官方直营)",
-                "icon": "./assets/siteIcons/bilibili-Wenfei_.png",
-                "url": "https://pay.WenTianPlay.com/",
-                "describe": "文天玩WenTianPlay-爱心捐款站(官方直营)"
-            },
-            {
-                "name": "爱心捐款站(平台代营)",
-                "icon": "./assets/siteIcons/bilibili-Wenfei_.png",
-                "url": "https://pay.WenTianPlay.net/",
-                "describe": "文天玩WenTianPlay-爱心捐款站(平台代营)"
             },
             {
                 "name": "充电站🥛",

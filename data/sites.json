@@ -106,13 +106,13 @@
             {
                 "name": "爱心捐款站(官方直营)",
                 "icon": "./assets/siteIcons/bilibili-Wenfei_.png",
-                "url": "https://pay.WenTianPlay.net/",
+                "url": "https://pay.WenTianPlay.com/",
                 "describe": "文天玩WenTianPlay-爱心捐款站(官方直营)"
             },
             {
                 "name": "爱心捐款站(平台代营)",
                 "icon": "./assets/siteIcons/bilibili-Wenfei_.png",
-                "url": "https://pay.WenTianPlay.com/",
+                "url": "https://pay.WenTianPlay.net/",
                 "describe": "文天玩WenTianPlay-爱心捐款站(平台代营)"
             },
             {

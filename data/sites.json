@@ -603,9 +603,9 @@
             },
             {
                 "name": "WebStackPage",
-                "icon": "./assets/siteIcons/WebStackPage.ico",
+                "icon": "https://WebStackPage.wentianplay.com/assets/images/favicon.png",
                 "url": "https://WebStackPage.WenTianPlay.com/",
-                "describe": "转载WebStackPage导航网站"
+                "describe": "WebStackPage导航网站"
             },
             {
                 "name": "RocSchool",

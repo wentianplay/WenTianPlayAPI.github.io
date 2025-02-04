@@ -600,6 +600,24 @@
                 "icon": "./assets/siteIcons/steampp.ico",
                 "url": "https://steampp.net/",
                 "describe": "瓦特工具箱(Steam++官网) - Watt Toolkit"
+            },
+            {
+                "name": "DeepSeek",
+                "icon": "./assets/siteIcons/DeepSeek.ico",
+                "url": "https://www.deepseek.com/",
+                "describe": "DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism. 🎉 DeepSeek-R1 is now live …"
+            },
+            {
+                "name": "pixiv",
+                "icon": "./assets/siteIcons/pixiv.png",
+                "url": "https://www.pixiv.net/",
+                "describe": "pixiv"
+            },
+            {
+                "name": "瓦特工具箱(Steam++官网) ",
+                "icon": "./assets/siteIcons/steampp.ico",
+                "url": "https://steampp.net/",
+                "describe": "瓦特工具箱(Steam++官网) - Watt Toolkit"
             }
         ]
     }

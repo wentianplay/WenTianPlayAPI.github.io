@@ -518,24 +518,6 @@
                 "describe": "星野_沉浸式智能体社区_星野官网_星野app"
             },
             {
-                "name": "爱心捐款站(正式站)",
-                "icon": "./assets/siteIcons/bilibili-Wenfei_.png",
-                "url": "https://pay.WenTianPlay.net/",
-                "describe": "文天玩WenTianPlay-爱心捐款站(正式站)"
-            },
-            {
-                "name": "爱心捐款站(测试站)",
-                "icon": "./assets/icon.ico",
-                "url": "https://mc.WenTianPlay.com/",
-                "describe": "文天玩WenTianPlay-爱心捐款站(测试站)"
-            },
-            {
-                "name": "充电站🥛",
-                "icon": "./assets/siteIcons/bilibili-Wenfei_.png",
-                "url": "https://www.bilibili.com/h5/upower/index?mid=1607684364",
-                "describe": "苏天彬(苏文飞)哔哩哔哩牛奶🥛充电站"
-            },
-            {
                 "name": "联壁计划",
                 "icon": "./assets/siteIcons/Barrierslink_logo.svg",
                 "url": "https://barrierslink.cn/",

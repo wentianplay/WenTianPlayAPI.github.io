@@ -572,6 +572,12 @@
                 "describe": "AI 导航站 | 收录了国内外2000+优质AI工具，人工智能工具和模型，整理了AI对话聊天、AI绘画设计、AI视频制作、AI写作办公、AI编程开发等各类工具，还包括最新的AI资讯、AI绘画教程、AI工具技巧等实用内容。在这里，AI领域的专家和初学者都能轻松找到心仪的AI工具和学习资源。"
             },
             {
+                "name": "WebStackPage",
+                "icon": "https://webstackpage.wentianplay.net/assets/images/favicon.png",
+                "url": "https://webstackpage.wentianplay.net/",
+                "describe": "WebStackPage"
+            },
+            {
                 "name": "Cкачать",
                 "icon": "./assets/siteIcons/byrut.png",
                 "url": "https://byrut.org.ru/",
@@ -600,12 +606,6 @@
                 "icon": "./assets/siteIcons/steampp.ico",
                 "url": "https://steampp.net/",
                 "describe": "瓦特工具箱(Steam++官网) - Watt Toolkit"
-            },
-            {
-                "name": "WebStackPage",
-                "icon": "https://WebStackPage.wentianplay.com/assets/images/favicon.png",
-                "url": "https://WebStackPage.WenTianPlay.com/",
-                "describe": "WebStackPage导航网站"
             },
             {
                 "name": "RocSchool",

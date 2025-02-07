@@ -26,13 +26,13 @@
         "icon": "",
         "data": [
             {
-                "name": "店铺官网(官方直营)",
+                "name": "店铺(官方直营)",
                 "icon": "./assets/icon.ico",
                 "url": "https://G.WenTianPlay.cn/",
-                "describe": "文天玩WenTian Play店铺―—(官网直营)"
+                "describe": "文天玩WenTian Play店铺―—(官方直营)"
             },
             {
-                "name": "店铺官网(平台代营)",
+                "name": "店铺(平台代营)",
                 "icon": "./assets/icon.ico",
                 "url": "https://G.WenTianPlay.com/",
                 "describe": "文天玩WenTian Play店铺―—(平台代营)"
@@ -53,7 +53,7 @@
                 "name": "爱心捐款站",
                 "icon": "./assets/siteIcons/bilibili-Wenfei_.png",
                 "url": "https://pay.WenTianPlay.net/",
-                "describe": "爱心捐款站(平台代营)-文天玩WenTianPlay"
+                "describe": "三码支付爱心捐款站(平台代营)-文天玩WenTianPlay"
             },
             {
                 "name": "哔哩哔哩",
@@ -244,7 +244,7 @@
                 "name": "文天玩永久地址发布页",
                 "icon": "./assets/icon.ico",
                 "url": "https://web.WenTianPlay.net/",
-                "describe": "文天玩WenTianPlay永久地址发布页-文天玩网络科技有限公司"},
+                "describe": "文天玩WenTianPlay永久地址发布页-文天玩网络科技有限公司"
             },
             {
                 "name": "X",

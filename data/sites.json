@@ -28,7 +28,7 @@
             {
                 "name": "店铺官网(官方直营)",
                 "icon": "./assets/icon.ico",
-                "url": "https://G.WenTianPlay.net/",
+                "url": "https://G.WenTianPlay.cn/",
                 "describe": "文天玩WenTian Play店铺―—(官网直营)"
             },
             {
@@ -245,12 +245,13 @@
                 "icon": "./assets/icon.ico",
                 "url": "https://web.WenTianPlay.net/",
                 "describe": "文天玩WenTianPlay永久地址发布页-文天玩网络科技有限公司"},
-             },
+            },
             {
                 "name": "X",
                 "icon": "./assets/siteIcons/X.ico",
                 "url": "https://x.com/WenTianPlay",
                 "describe": "X 是一个公共对话平台，确保一个自由和安全的谈话场所。"
+            },
             {
                 "name": "蚂蚁课堂(每特教育)",
                 "icon": "./assets/siteIcons/mayikt.png",

@@ -47,13 +47,13 @@
                 "name": "文天玩码支付",
                 "icon": "./assets/siteIcons/bilibili-Wenfei_.png",
                 "url": "https://pay.WenTianPlay.cn/",
-                "describe": "文天玩码支付---文天玩WenTianPlay-爱心捐款站(官方直营)"
+                "describe": "文天玩码支付-爱心捐款站(官方直营)-文天玩WenTianPlay"
             },
             {
-                "name": "爱心捐款站-平台代营",
+                "name": "爱心捐款站",
                 "icon": "./assets/siteIcons/bilibili-Wenfei_.png",
                 "url": "https://pay.WenTianPlay.net/",
-                "describe": "文天玩WenTianPlay-爱心捐款站(平台代营)"
+                "describe": "爱心捐款站(平台代营)-文天玩WenTianPlay"
             },
             {
                 "name": "哔哩哔哩",

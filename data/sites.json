@@ -602,16 +602,15 @@
                 "describe": "DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism. 🎉 DeepSeek-R1 is now live …"
             },
             {
+                "name": "修仙之路房东人生",
+                "icon": "./assets/siteIcons/修仙之路房东人生🏠.png",
+                "url": "https://m.q.qq.com/a/p/1112226201",
+                "describe": "修仙之路,房东人生🏠              -QQ小程序"},
+            {
                 "name": "写作神器",
                 "icon": "./assets/siteIcons/writertool.jpeg",
                 "url": "https://www.writertool.cn/",
                 "describe": "我买的是永久会员,因为我是作家才买的。"
-            },
-            {
-                "name": "修仙之路房东人生",
-                "icon": "./assets/siteIcons/修仙之路房东人生🏠.png",
-                "url": "https://m.q.qq.com/a/p/1112226201",
-                "describe": "修仙之路房东人生🏠-QQ小程序"
             }
         ]
     }

@@ -157,6 +157,18 @@
         "icon": "",
         "data": [
             {
+                "name": "文天玩永久发布页",
+                "icon": "./assets/icon.ico",
+                "url": "https://web.WenTianPlay.net/",
+                "describe": "文天玩WenTianPlay永久地址发布页-文天玩网络科技有限公司"
+            },
+            {
+                "name": "全职攻略教程兼邮箱QQ交流群导航站",
+                "icon": "./assets/siteIcons/MC.png",
+                "url": "https://net.wentianplay.com",
+                "describe": "全职攻略教程兼祖帝邮箱QQ交流群导航站🐍"
+            },
+            {
                 "name": "你的影月月-原神攻略大全/攻略目录/随版本持续更新",
                 "icon": "./assets/siteIcons/431073645.png",
                 "url": "https://www.bilibili.com/read/mobile/13698984?share_session_id=4a1c32fd-4e5f-4e53-b0b5-c363b95c3911&share_medium=android&share_source=qq&bbid=XUA7479AD156F6C0E72469DAEF04AA63F4C78&ts=1737564069095",
@@ -209,12 +221,6 @@
                 "icon": "./assets/siteIcons/github.png",
                 "url": "https://www.github.com/",
                 "describe": "基于web的版本控制和协作平台"
-            },
-            {
-                "name": "文天玩永久地址发布页",
-                "icon": "./assets/icon.ico",
-                "url": "https://web.WenTianPlay.net/",
-                "describe": "文天玩WenTianPlay永久地址发布页-文天玩网络科技有限公司"
             },
             {
                 "name": "X",

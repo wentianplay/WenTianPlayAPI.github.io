@@ -157,36 +157,6 @@
         "icon": "",
         "data": [
             {
-                "name": "邮箱联系(QQ)",
-                "icon": "./assets/siteIcons/mail_QQ.png",
-                "url": "mailto:wentianplay@qq.com",
-                "describe": "苏天彬(苏文飞)-QQ邮箱"
-            },
-            {
-                "name": "邮箱联系(163网易)",
-                "icon": "./assets/siteIcons/163.png",
-                "url": "mailto:wentianplay@163.com",
-                "describe": "苏天彬(苏文飞)-163网易邮箱"
-            },
-            {
-                "name": "邮箱联系(foxmail)",
-                "icon": "./assets/siteIcons/foxmail.ico",
-                "url": "mailto:wentianplay@foxmail.com",
-                "describe": "苏天彬(苏文飞)-foxmail邮箱"
-            },
-            {
-                "name": "邮箱联系(Outlook)",
-                "icon": "./assets/siteIcons/outlook.ico",
-                "url": "mailto:wentianplay@outlook.com",
-                "describe": "苏天彬(苏文飞)-Outlook邮箱"
-            },
-            {
-                "name": "邮箱联系(Gmail)",
-                "icon": "./assets/siteIcons/mall-Gmail.png",
-                "url": "mailto:wentianplay@Gmail.com",
-                "describe": "苏天彬(苏文飞)-Gmail邮箱"
-            },
-            {
                 "name": "你的影月月-原神攻略大全/攻略目录/随版本持续更新",
                 "icon": "./assets/siteIcons/431073645.png",
                 "url": "https://www.bilibili.com/read/mobile/13698984?share_session_id=4a1c32fd-4e5f-4e53-b0b5-c363b95c3911&share_medium=android&share_source=qq&bbid=XUA7479AD156F6C0E72469DAEF04AA63F4C78&ts=1737564069095",

@@ -247,6 +247,11 @@
                 "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。它适用于 Windows、macOS、Linux、iOS 和 Android 设备。该应用程序是免费的，安全性高，既能在台式电脑上使用，也能在手机上使用。今天就从 Google Playstore 或 Apple App Store 等受信任的来源下载最好的通过视频、语..."
             },
             {
+                "name": "Gitee",
+                "icon": "./assets/siteIcons/Gitee.png",
+                "url": "https://gitee.com/WenTianPlay",
+                "describe": "文天玩网络科技有限公司 Gitee"},
+            {
                 "name": "绿茶VPN",
                 "icon": "./assets/siteIcons/lvcha.png",
                 "url": "https://k1.lvcha.cfd/?id=165034437",

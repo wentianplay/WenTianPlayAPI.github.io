@@ -628,7 +628,11 @@
                 "icon": "./assets/ncre-neea.ico",
                 "url": "https://ncre.neea.edu.cn/",
                 "describe": "全国计算机等级考试（National Computer Rank Examination，简称NCRE），是经原国家教育委员会（现教育部）批准，由教育部教育考试…"
-            }
+            },
+            {
+                "name": "📅 生日天数计算器",
+                "url": "https://tian.WenTianPlay.net/",
+            }}
         ]
     }
 }

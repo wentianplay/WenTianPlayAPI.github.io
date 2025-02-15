@@ -250,7 +250,8 @@
                 "name": "Gitee",
                 "icon": "./assets/siteIcons/Gitee.png",
                 "url": "https://gitee.com/WenTianPlay",
-                "describe": "文天玩网络科技有限公司 Gitee"},
+                "describe": "文天玩网络科技有限公司 Gitee"
+            },
             {
                 "name": "绿茶VPN",
                 "icon": "./assets/siteIcons/lvcha.png",
@@ -631,8 +632,10 @@
                 "describe": "全国计算机等级考试（National Computer Rank Examination，简称NCRE），是经原国家教育委员会（现教育部）批准，由教育部教育考试…"
             },
             {
-                "name": "📅 生日天数计算器",
-                "url": "https://tian.WenTianPlay.net/"
+                "name": "生日天数计算器",
+                "icon": "📅",
+                "url": "https://tian.wentianplay.net/",
+                "describe": "📅 生日天数计算器" 
             }
         ]
     }

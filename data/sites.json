@@ -640,14 +640,20 @@
             {
                 "name": "进制转换计算器",
                 "icon": "🖥",
-                "url": "https://numeration.wentianplay.net/",
+                "url": "https://vvv.wentianplay.net/",
                 "describe": "🖥 进制转换计算器"
             },
             {
-                "name": "进万能计算器1.0",
+                "name": "万能计算器1.0",
                 "icon": "🖥",
                 "url": "https://jj.wentianplay.net/",
                 "describe": "🖥 万能计算器1.0"
+            },
+            {
+                "name": "万能影图下载器1.0",
+                "icon": "🖥",
+                "url": "https://numeration.wentianplay.net/",
+                "describe": "🖥 万能影图下载器1.0"
             }
         ]
     }

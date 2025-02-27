@@ -175,6 +175,11 @@
                 "describe": "(含神瞳/宝箱/任务/突破材料/怪物素材)目录(电脑端CTRL+F输入对应数字可直接跳转)：(推荐做完开图主线去拿宝箱神瞳，最后清理其他世界任务 因为有些任务道具会在宝箱视频里顺路带着捡)文章的置顶评论有PC端小地图显示东南西北的工具"
             },
             {
+                "name": "AX导航站",
+                "icon": "https://AX.wentianplay.com/favcion.ico",
+                "url": "https://AX.wentianplay.com",
+                "describe": "AX导航站"},
+            {
                 "name": "Youtube",
                 "icon": "./assets/siteIcons/youtube.png",
                 "url": "https://www.youtube.com/",

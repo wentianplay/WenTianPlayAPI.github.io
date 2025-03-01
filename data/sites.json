@@ -534,6 +534,12 @@
                 "describe": "🔐:6666 下载安装：蚂蚁课堂-每特教育-专注于互联网年轻人的IT在线教育-余胜军"
             },
             {
+                "name": "在线接收短信",
+                "icon": "./assets/siteIcons/sms-activate.ico",
+                "url": "https://sms-activate.guru/",
+                "describe": "在线接收短信到虚拟号码以进行 OTP |短信激活   Receive SMS Online to Virtual Number for OTP | SMS-Activate"
+            },
+            {
                 "name": "捏咔",
                 "icon": "./assets/siteIcons/neka.ico",
                 "url": "https://www.neka.cc",

@@ -682,6 +682,12 @@
                 "icon": "🖥",
                 "url": "https://bj.wentianplay.net/",
                 "describe": "🖥 《彬》《天彬》简易修仙传"
+            },
+            {
+                "name": "红人营销平台",
+                "icon": "./assets/siteIcons/weiq.ico",
+                "url": "https://weiq.com/",
+                "describe": "红人营销平台|精准化一站式营销投放"
             }
         ]
     }

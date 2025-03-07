@@ -606,6 +606,12 @@
                 "describe": "LITEAPKS - #1 MOD APK for Android"
             },
             {
+                "name": "Telegram",
+                "icon": "./assets/siteIcons/Telegram.png",
+                "url": "https://Telegram.org",
+                "describe": "Telegram"
+            },
+            {
                 "name": "pixiv",
                 "icon": "./assets/siteIcons/pixiv.png",
                 "url": "https://www.pixiv.net/",

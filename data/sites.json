@@ -157,6 +157,12 @@
         "icon": "",
         "data": [
             {
+                "name": "文天玩WenTianPlay",
+                "icon": "./assets/icon.ico",
+                    "url": "https://CU.WenTianPlay.net/",
+                "describe": "请联系加入我们-文天玩WenTianPlay网络科技有限公司"
+            },
+            {
                 "name": "文天玩永久发布页",
                 "icon": "./assets/icon.ico",
                 "url": "https://web.WenTianPlay.net/",

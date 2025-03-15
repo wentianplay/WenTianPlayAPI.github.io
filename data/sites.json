@@ -700,6 +700,12 @@
                 "icon": "./assets/siteIcons/weiq.ico",
                 "url": "https://weiq.com/",
                 "describe": "红人营销平台|精准化一站式营销投放"
+            },
+            {
+                "name": "NSSCTF",
+                "icon": "./assets/siteIcons/nssctf.ico",
+                "url": "https://www.nssctf.cn/",
+                "describe": "NSSCTF"
             }
         ]
     }
